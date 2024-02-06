@@ -18,6 +18,7 @@ public class Theatre{
         row[1] = new int[16];
         row[2] = new int[20];
         System.out.println("\n************************************************");
+        System.out.println("\n************************************************");
         System.out.println("         *  Welcome to the New Theatre *       ");
         System.out.println("************************************************");
 
