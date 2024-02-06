@@ -21,6 +21,7 @@ public class Theatre{
         System.out.println("\n************************************************");
         System.out.println("         *  Welcome to the New Theatre *       ");
         System.out.println("************************************************");
+        System.out.println("************************************************");
 
         // Ask user for input until they choose to quit
         while (true) {
